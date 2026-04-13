@@ -205,6 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< RisulKr-patch-2
+=======
 
 # Default .gitignore content added by dbt Cloud# you shouldn't commit these into source control
 # these are the default directory names, adjust/add to fit your needs
@@ -212,4 +214,5 @@ target/
 dbt_packages/
 logs/
 # end dbt Cloud content
+>>>>>>> main
 dbt_internal_packages/

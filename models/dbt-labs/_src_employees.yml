@@ -1,0 +1,10 @@
+sources:
+  - name: eLearn-Platform
+    database: dbt_project
+    schema: raw
+    tables:
+      - name: employees
+      - name: candidates
+      - name: skills
+      - name: job_functions
+      - name: interviews
